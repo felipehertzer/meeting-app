@@ -1,6 +1,6 @@
-# Notter.ai Website
+# Badger.ai Website
 
-Static support and privacy website for the Notter.ai iOS app.
+Static support and privacy website for the Badger.ai iOS app.
 
 - `index.html`
 - `support.html`
